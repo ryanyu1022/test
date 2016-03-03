@@ -62,7 +62,7 @@ class ViewController: UIViewController{
         super.viewDidLoad()
         
         print("new")
-        
+        print("complete")
         
 //        showHello()
 //        showHi()
